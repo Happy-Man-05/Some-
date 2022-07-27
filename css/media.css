@@ -1,0 +1,121 @@
+ @media(max-width:767px) {
+     .slogan {
+         max-width: 460px;
+         display: block;
+         justify-content: center;
+         text-align: center;
+
+
+     }
+
+     .slogan img {
+         margin: 0 auto;
+         width: 97px;
+         height: 98px;
+
+     }
+
+     .slogan h1 {
+
+         font-weight: 400;
+         font-size: 18px;
+
+     }
+
+     .menu_nav {
+         display: none;
+     }
+
+     .card img {
+         max-width: none;
+         display: flex;
+         flex-direction: column;
+         padding: 10px;
+     }
+
+     .cards_img {
+         display: flex;
+         flex-direction: column;
+     }
+
+     /* о приложении */
+     .about-app h2 {
+         font-weight: 400;
+         font-size: 24px;
+     }
+
+     .video_img {}
+
+     .video {
+         width: 370px;
+         height: 196px;
+     }
+
+     .play {
+         width: 40px;
+         height: 40px;
+     }
+
+
+     /* center  */
+     .s_card {
+         display: none;
+     }
+
+     /* о проекте */
+     .about-project h2 {
+         font-weight: 400;
+         font-size: 24px;
+     }
+
+     .text-project p {
+         font-weight: 400;
+         font-size: 15px;
+     }
+
+     /* скачать */
+     .download h2 {
+         font-weight: 400;
+         font-size: 24px;
+     }
+
+     .img-down1 {
+         width: 130px;
+         height: 101px;
+     }
+
+     .img-down2 {
+         width: 87px;
+         height: 87px;
+     }
+
+     .down-text {
+         font-weight: 400;
+         font-size: 15px;
+     }
+
+
+     /* Some  */
+     .some_h h2 {
+         font-weight: 400;
+         font-size: 24px;
+     }
+
+     .logos img {
+         width: 32px;
+         height: 32px;
+     }
+
+     .text__foot h4 {
+         font-weight: 400;
+         font-size: 18px;
+     }
+
+     .text__foot {
+         flex-direction: column;
+     }
+
+     .text__foot div p {
+         font-size: 10px;
+     }
+ }
